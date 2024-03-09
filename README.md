@@ -1,23 +1,23 @@
-[![Gifted MD V.2.0.0](https://readme-typing-svg.demolab.com?font=Anton&size=35&pause=998&color=1FC40A&background=F7F2F20A&align=center&random=false&width=800&lines=Hello+Everyone%F0%9F%91%8B!;I+am+Gifted-MD+V.2.0.0;I+am+Programmed+by+Gifted+Tech;Gifted+Tech+is+a+Self+Learned+Fronted+Developer;He+is+from+East+Africa-Kenya)](https://github.com/Giftedmaurice/gifted-mdV2)
+[![Gifted MD V.2.0.0](https://readme-typing-svg.demolab.com?font=Anton&size=35&pause=998&color=1FC40A&background=F7F2F20A&align=center&random=false&width=800&lines=Hello+Everyone%F0%9F%91%8B!;I+am+DAVID+KIBET-MD+V.2.0.0;I+am+Programmed+by+DAVID+KIBET;DAVID+KIBET+is+a+Self+Learned+Fullstack+Developer;He+is+from+East+Africa-Kenya-Nakuru)](https://github.com/Giftedmaurice/gifted-mdV2)
 
- <h1 align="center"> ɢɪғᴛᴇᴅ ᴍᴅ Version 2.0.0 </h1> 
+ <h1 align="center"> DAVID KIBET ᴍᴅ Version 2.0.0 </h1> 
  <br>
 
-<p align="center"> Introducing ɢɪғᴛᴇᴅ ʙᴏᴛ v2.0.0, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+<p align="center"> Introducing DAVID KIBET v2.0.0, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
   <a href="https://github.com/Giftedmaurice/gifted-mdV2">
-    <img alt="Gifted docs" height="300" src="https://telegra.ph/file/54efddccf41281ad7ec51.jpg">
+    <img alt="Gifted docs" height="300" src="https://telegra.ph/file/9cdcbe64768a3147f8503.jpg">
   </a>
 </p>
     
    
    
 <p align="center">
-  <a href="https://wa.me/+254728782591?text=Hi+Bro--+I+Need+Help.+I've+messaged+you+from+ɢɪғᴛᴇᴅ ʙᴏᴛ+Repo" target="_blank">
+  <a href="https://wa.me/+2547114119015?text=Hi+Bro--+I+Need+Help.+I've+messaged+you+from+DAVID KIBET ʙᴏᴛ+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
-  <a aria-label="ɢɪғᴛᴇᴅ ʙᴏᴛ v.2.0.0 is free to use" href="https://github.com/Giftedmaurice/gifted-mdV2" target="_blank">
+  <a aria-label="DAVIE ʙᴏᴛ v.2.0.0 is free to use" href="https://github.com/Giftedmaurice/gifted-mdV2" target="_blank">
     <img alt="GiftedTech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
@@ -29,7 +29,7 @@
 
 
 
-<p align="center"> ɢɪғᴛᴇᴅ ʙᴏᴛ ᴍᴅ V.2.0.0 uses
+<p align="center"> DAVID KIBET ᴍᴅ V.2.0.0 uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -49,7 +49,7 @@
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FGiftedmaurice%2Fgifted-mdV2"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://suhail-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
-  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Giftedmaurice/gifted-mdV2&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254762016957&env[MONGODB_URI]&&env[OWNER_NAME]=ɢɪғᴛᴇᴅ ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=ɢɪғᴛᴇᴅ ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=GIFTED&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Nairobi&name=gifted-tech&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/54efddccf41281ad7ec51.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
+  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Giftedmaurice/gifted-mdV2&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254114119015&env[MONGODB_URI]&&env[OWNER_NAME]=DAVID KIBET&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]composing&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=ɢɪғᴛᴇᴅ ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=public&env[READ_MESSAGE]=false&env[THEME]=GIFTED&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Nairobi&name=gifted-tech&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=[https://telegra.ph/file/9cdcbe64768a3147f8503.jpg]"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
 </p>
 <p align="center">
   <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
@@ -58,7 +58,7 @@
 
 
 
-## Some of Gifted-Md Bot Games:
+## Some of David kibet-Md Bot Games:
 ---
 1. ***Connect Four Game(cfg).***
 2.  ***Tic Tac Toe.***
@@ -99,7 +99,7 @@
 
 
 ### I Am
-- [Gifted Tech](https://github.com/Giftedmaurice) 
+- [DAVID KIBET](https://github.com/Giftedmaurice) 
 
 
 
