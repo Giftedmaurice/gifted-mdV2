@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
+      "value": "DAVIE",
       "required" :true
     },   
     
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :true,    
-      "value": "𝗚𝗜𝗙𝗧𝗘𝗗 𝗠𝗗"
+      "value": "DAVIE BOT MD"
     }, 
     "IMAGE": {
       "description": "Image for bot",
       "required" :true,    
-      "value": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg"
+      "value": "https://telegra.ph/file/9cdcbe64768a3147f8503.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -47,7 +47,7 @@
     "WARN_COUNT": {
       "description": " Warn count for users to kick/block when warn limit exceed!",
       "required" :true,    
-      "value": "5"
+      "value": "3"
     }, 
     "READ_COMMAND": {
       "description": " Read bot cmds",
@@ -60,7 +60,7 @@
       "value": "false"
     }, 
     "HEROKU_API_KEY": {
-      "description": "Put Your Heroku Api Key Here",
+      "description": "1a63355e-a482-4e92-b6f4-f47f2c160e7d",
       "value": "",
       "required" :true 
     },   
@@ -72,7 +72,7 @@
     "WAPRESENCE": {
       "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for always online and virtual typing) | 'recording'(for always online and virtual recording audio) | 'paused' ",
       "required" :true,
-      "value": "available"
+      "value": "composing"
     },
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot to automatically view your Statuses.",
@@ -102,7 +102,7 @@
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "required" :true,
-      "value": "254728782591"
+      "value": "254114119015"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -111,7 +111,7 @@
   
     },
     "OPENAI_API_KEY": {
-      "description": "put your OPENAI api key here.Get it from beta.openai.com ",
+      "description": "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",
       "value": "",
       "required" :false
     }, 
@@ -128,7 +128,7 @@
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
       "required" :true,
-      "value": "private"
+      "value": "public"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
